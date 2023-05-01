@@ -3,7 +3,7 @@ import java.util.*;
 import java.lang.*;
 import java.math.*;
 
-public class BOj4779 {
+public class BOJ4779 {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
